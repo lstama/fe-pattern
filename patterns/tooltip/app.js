@@ -75,6 +75,3 @@
     if (e.key === "Escape") hide();
   });
 })();
-window.addEventListener('load', function () {
-  document.querySelectorAll('[data-tooltip]').forEach(function (h) { show(h); });
-});

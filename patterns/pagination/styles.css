@@ -46,6 +46,7 @@ body {
   font-weight: 700;
   font-size: 0.85rem;
 }
+.meta { display: flex; flex-direction: column; }
 .meta .name { font-weight: 600; }
 .meta .role { color: #6b7280; font-size: 0.9rem; }
 
